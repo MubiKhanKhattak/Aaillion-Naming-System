@@ -1,4 +1,6 @@
- Founder’s Statement — Mubashir  
+ ![Aaillion Banner](https://raw.githubusercontent.com/MubiKhanKhattak/Aaillion-Naming-System/main/ChatGPT%20Image%20May%209%2C%202025%2C%2012_20_48%20PM.png)
+                                                 
+       Founder’s Statement — Mubashir  
 Creator of the Aaillion Naming System
 
 I, "Mubashir", proudly introduce the "Aaillion Naming System" — an innovative, alphabet-driven framework designed to name extremely large numbers in a structured, readable, and infinitely expandable way.
