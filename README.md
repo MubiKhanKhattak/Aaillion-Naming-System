@@ -1,4 +1,12 @@
 ![Aaillion Banner](https://raw.githubusercontent.com/MubiKhanKhattak/Aaillion-Naming-System/main/ChatGPT%20Image%20May%209%2C%202025%2C%2012_20_48%20PM.png)
+<p align="center">
+  <img src="https://img.shields.io/badge/👨‍💻 Creator-Mubashir-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌍 License-MIT-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📌 Status-Active-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📖 Language-English%20%7C%20Urdu-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔢 Category-Math%20%7C%20Logic-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🇵🇰 Made_in-Pakistan-blue?style=for-the-badge" />
+</p>
 
 # 📜 Founder’s Statement — Mubashir  
 ### Creator of the Aaillion Naming System
